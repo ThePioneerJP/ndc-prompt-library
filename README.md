@@ -1,5 +1,7 @@
 # NDC Prompt Library
 
+![file-GZOdguAbdEHCYEoplSeSO5ww](https://github.com/ThePioneerJP/ndc-prompt-library/assets/116901962/ad6e277a-f45e-44c0-a5ce-8c856c0f5967)
+
 English version: [README_EN.md](README_EN.md)
 
 ## 概要
